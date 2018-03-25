@@ -14,5 +14,6 @@ A curated list of machine learning for anomaly detection resources, inspired by 
   * [Big data analytics for network anomaly detection from netflow data](http://ieeexplore.ieee.org/abstract/document/8093473/), D. Terzi et al., UBMK 2017
   * [FLAME: A Flow-Level Anomaly Modeling Engine](https://www.usenix.org/legacy/event/cset08/tech/full_papers/brauckhoff/brauckhoff_html/), D. Brauckhoff et al., CSET, 2008
   * [Characterizing network traffic by means of the NETMINE framework](https://www.sciencedirect.com/science/article/pii/S1389128608004052), D. Apiletti et al., Computer Networks, 2009
-  * [Machine Learning Approach for IP-Flow Record Anomaly Detection](https://link.springer.com/10.1007%2F978-3-642-20757-0_3), C. Wagner et al., International Conference on Research in Networking, 2011
-  * [Outside the Closed World/ On Using Machine Learning For Network Intrusion Detection](http://ieeexplore.ieee.org/abstract/document/5504793/), R. Sommer et al., IEEE SP, 2010 
+  * [Machine Learning Approach for IP-Flow Record Anomaly Detection](https://link.springer.com/10.1007%2F978-3-642-20757-0_3), C. Wagner et al., ICRN, 2011
+  * [Outside the Closed World/ On Using Machine Learning For Network Intrusion Detection](http://ieeexplore.ieee.org/abstract/document/5504793/), R. Sommer et al., IEEE SP, 2010
+  * [Machine Learning Techniques for Anomaly Detection: An Overview](https://pdfs.semanticscholar.org/0278/bbaf1db5df036f02393679d485260b1daeb7.pdf), S. Omar et al., IJCA, 2013
