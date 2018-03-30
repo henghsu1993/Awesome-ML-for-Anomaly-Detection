@@ -4,7 +4,7 @@ A curated list of machine learning for anomaly detection resources, inspired by 
 ## Table of Contents
 
   - [Papers](#papers)
-  - [Datasets](#datasets)
+  - [Datasets](#datasets)
 
 ## Papers
   * [Real-time DDoS attack detection for Cisco IOS using NetFlow](http://ieeexplore.ieee.org/abstract/document/7140420/), D. van der Steeg et al., IFIP/IEEE IM 2015
