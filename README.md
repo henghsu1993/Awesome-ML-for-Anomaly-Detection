@@ -17,3 +17,10 @@ A curated list of machine learning for anomaly detection resources, inspired by 
   * [Machine Learning Approach for IP-Flow Record Anomaly Detection](https://link.springer.com/10.1007%2F978-3-642-20757-0_3), C. Wagner et al., ICRN, 2011
   * [Outside the Closed World/ On Using Machine Learning For Network Intrusion Detection](http://ieeexplore.ieee.org/abstract/document/5504793/), R. Sommer et al., IEEE SP, 2010
   * [Machine Learning Techniques for Anomaly Detection: An Overview](https://pdfs.semanticscholar.org/0278/bbaf1db5df036f02393679d485260b1daeb7.pdf), S. Omar et al., IJCA, 2013
+
+## Licenses
+License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, I have waived all copyright and related or neighboring rights to this work.
