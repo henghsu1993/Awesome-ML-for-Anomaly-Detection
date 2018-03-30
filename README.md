@@ -2,6 +2,7 @@
 A curated list of machine learning for anomaly detection resources, inspired by [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) and [Awesome Architecture Search](https://github.com/markdtw/awesome-architecture-search/blob/master/README.md)
 
 ## Table of Contents
+
   - [Papers](#papers)
   - [Datasets](#datasets)
 
@@ -20,6 +21,7 @@ A curated list of machine learning for anomaly detection resources, inspired by 
   * [Machine Learning Techniques for Anomaly Detection: An Overview](https://pdfs.semanticscholar.org/0278/bbaf1db5df036f02393679d485260b1daeb7.pdf), S. Omar et al., IJCA, 2013
 
 ## Datasets
+
   * [DARPA](https://www.ll.mit.edu/ideval/data/)
   * [KDD Cup 1999](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
 
