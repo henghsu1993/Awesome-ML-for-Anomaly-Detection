@@ -20,6 +20,8 @@ A curated list of machine learning for anomaly detection resources, inspired by 
   * [Machine Learning Approach for IP-Flow Record Anomaly Detection](https://link.springer.com/10.1007%2F978-3-642-20757-0_3), C. Wagner et al., ICRN, 2011
   * [Outside the Closed World/ On Using Machine Learning For Network Intrusion Detection](http://ieeexplore.ieee.org/abstract/document/5504793/), R. Sommer et al., IEEE SP, 2010
   * [Machine Learning Techniques for Anomaly Detection: An Overview](https://pdfs.semanticscholar.org/0278/bbaf1db5df036f02393679d485260b1daeb7.pdf), S. Omar et al., IJCA, 2013
+  * [Detection of known and unknown DDoS attacks using Artificial Neural Networks](https://www.sciencedirect.com/science/article/pii/S092523121501053X), A. Saied et al., Neurocomputing, 2015
+  * [An Anomaly-Based Method for DDoS Attacks Detection using RBF Neural Networks](https://pdfs.semanticscholar.org/636f/4733c2851f5bcdab14481c18bb3aca66ccb2.pdf), R. Karimazad et al., ICNEE, 2011
 
 ## Datasets
 
