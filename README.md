@@ -22,11 +22,13 @@ A curated list of machine learning for anomaly detection resources, inspired by 
   * [Machine Learning Techniques for Anomaly Detection: An Overview](https://pdfs.semanticscholar.org/0278/bbaf1db5df036f02393679d485260b1daeb7.pdf), S. Omar et al., IJCA, 2013
   * [Detection of known and unknown DDoS attacks using Artificial Neural Networks](https://www.sciencedirect.com/science/article/pii/S092523121501053X), A. Saied et al., Neurocomputing, 2015
   * [An Anomaly-Based Method for DDoS Attacks Detection using RBF Neural Networks](https://pdfs.semanticscholar.org/636f/4733c2851f5bcdab14481c18bb3aca66ccb2.pdf), R. Karimazad et al., ICNEE, 2011
+  * [A data mining framework for building intrusion detection models](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=766909), W. Lee et al., IEEE SP, 1999
 
 ## Datasets
 
   * [DARPA](https://www.ll.mit.edu/ideval/data/)
   * [KDD Cup 1999](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
+  * [ISCX IDS](http://www.unb.ca/cic/datasets/ids.html)
 
 ## Licenses
 License
